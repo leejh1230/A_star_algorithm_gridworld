@@ -1,0 +1,1 @@
+python main.py --M 30 --M 30 --obstacle_ratio 0.2

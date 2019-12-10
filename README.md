@@ -1,5 +1,5 @@
 # A* algorithm 
-
+![ex_screenshot](./test_image.png)
 ## Dependencies
 `python 3.x`
 `pygame`
